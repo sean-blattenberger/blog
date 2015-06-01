@@ -6,16 +6,11 @@
     <nav>
         <a href="{{ site.baseurl }}/"><h2 class="site-title">{{ site.title }}</h2></a>
         <ul class="sb-menu">
-        {% assign pages_list = site.pages | sort:"url" %}
-        {% for node in pages_list %}
-            {% if node.title != null %}
-                {% if node.layout == "page" %}
+
                 <li class="sb-close {% if page.url == node.url %}active{% endif %}">
-                    <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+                    <a href="/home">Home</a>
                 </li>
-                {% endif %}
-            {% endif %}
-        {% endfor %}
+
         </ul>
 
         <div class="site-info">
