@@ -2,14 +2,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sean Blattenberger Portfolio</title>
+    <title>Sean Blattenberger B.LOG()</title>
     <description></description>
     <link>http://sean-blattenbegrer.github.io/blog/</link>
     <atom:link href="http://sean-blattenbegrer.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 May 2015 11:14:16 -0400</pubDate>
-    <lastBuildDate>Sun, 31 May 2015 11:14:16 -0400</lastBuildDate>
+    <pubDate>Sun, 31 May 2015 18:31:33 -0400</pubDate>
+    <lastBuildDate>Sun, 31 May 2015 18:31:33 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
+
       <item>
         <title>Back to Bootcamp</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra &lt;code&gt;var x = 10;&lt;/code&gt;. Vivamus suscipit quis lectus porta sollicitudin.&lt;/p&gt;
@@ -68,23 +68,23 @@
         <pubDate>Fri, 06 Feb 2015 00:00:00 -0500</pubDate>
         <link>http://sean-blattenbegrer.github.io/blog/back-to-work/</link>
         <guid isPermaLink="true">http://sean-blattenbegrer.github.io/blog/back-to-work/</guid>
-        
+
         <category>home</category>
-        
+
         <category>work</category>
-        
+
         <category>office</category>
-        
+
         <category>coding</category>
-        
+
         <category>design</category>
-        
-        
+
+
         <category>development</category>
-        
+
         <category>work</category>
-        
+
       </item>
-    
+
   </channel>
 </rss>

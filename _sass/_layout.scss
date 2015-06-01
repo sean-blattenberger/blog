@@ -37,6 +37,14 @@
     height: $spacing-unit;
     padding: ($spacing-unit / 4) 0;
 
+    .header{
+        color: darkslategrey;
+        float: center !important;
+        text-align: center !important;
+        margin: 0 auto;
+        position: relative;
+    }
+
     .navigator {
         color: $grey-color-dark !important;
         float: left;
