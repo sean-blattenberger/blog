@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Back to Bootcamp"
-date: 2015-02-06
+date: 2015-05-31
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
 categories: development work
-tags: home work office coding design
+tags: work coding design
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra `var x = 10;`. Vivamus suscipit quis lectus porta sollicitudin.
