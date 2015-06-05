@@ -24,7 +24,16 @@ I didn't fully recognize it at the time but what I had grown to love was not sim
 {% highlight js %}
 Quote from skilledup.com:
 
-"Coding bootcamps are months-long
+"Coding bootcamps offer a fast track to
+gaining solid, marketable web development
+skills. They are popping up across the 
+country, offering students a wealth of 
+hands-on experience, technical knowledge 
+and insight into the culture of the tech
+industry.
+
+
+Coding bootcamps are months-long
 intensive experiences. Each day offers
 new challenges. Most bootcamps require
 a full-time commitment, but there are
