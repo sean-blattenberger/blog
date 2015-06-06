@@ -10,11 +10,11 @@ categories: development work
 tags: work coding design
 ---
 
-I can't believe it's been almost seven years since I "shipped" out to Navy bootcamp. 8 weeks of basic training followed by  64 weeks of Arabic Language training. It wasn't the most fun time but those 72 weeks transformed me into a much more competent and mature person. 
+I can't believe it's been almost seven years since I shipped out to Navy bootcamp. 8 weeks of basic training followed by  64 weeks of Arabic Language training. It wasn't the most fun time but those 72 weeks transformed me into a much more competent and mature person. 
 
 ![Sample Image](http://i.imgur.com/FAfq1y9.jpg/480x480)
 
-I didn't fully recognize it at the time but what I had grown to love was not simply learing but a certain style of learning.  Arabic was difficult but so was highschool for me.  However with Arabic I was able to excel and enjoy learning. In highschool and undergrad, students are being "rounded out", gaining competency in many things. In the military, time is of the essence. They need you to be "useful" sooner than latter. This is why military courses are structured to 'sharpen' their students. Focus is narrowed and mastery is the goal. I want a course that is going to sharpen my skills.  I'd rather be good at one thing than just 'okay' at a few things.
+I didn't fully recognize it at the time but what I had grown to love was not simply learning but a certain style of learning.  Arabic was difficult but so was highschool for me.  However, with Arabic I was able to excel and enjoy learning. In highschool and undergrad, students are being "rounded out", gaining competency in many things. In the military, time is of the essence. They need you to be "useful" sooner than latter. This is why military courses, like bootcamp, are structured to 'sharpen' their students. Focus is narrowed and mastery is the goal. I want a course that is going to sharpen my skills.  I'd rather be good at one thing than just 'okay' at a few things.
 
 
 ## What's coding bootcamp?
@@ -44,6 +44,6 @@ employable graduates."
 
 {% endhighlight %}
 
-This week I start another bootcamp, a coding bootcamp at Coding House Institute. It's a fully immersive, 8-week course. The only live in bootcamp, it aims to eliminate every possible distraction. No cooking, no commute - just live, eat, and code. I'm grateful to have this opportunity and am excited to learn a new, valuable skillset.  There's so much to learn in such a short time. I'm nervous but I know what can be accomplished when you immerse yourself in a subject. Wish me luck.
+This week I start another bootcamp, a coding bootcamp at Coding House Institute. It's a fully immersive, 8-week course on web development. The only live in bootcamp, it aims to eliminate every possible distraction. No cooking, no commute - just live, eat, and code. I'm grateful to have this opportunity and am excited to learn a new, valuable skillset.  There's so much to learn in such a short time. I'm nervous but I know what can be accomplished when you immerse yourself in a subject. Wish me luck.
 
 
